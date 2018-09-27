@@ -12,7 +12,7 @@ class Die //models one single dice cube
   int height1;
   int width1;
   
-    //variable declarations here
+    //FIX VAR NAMES THEY ARE BAD
     Die( int w, int h) //constructor
     {
     
@@ -57,22 +57,22 @@ class Die //models one single dice cube
   if (ran4 == 1 || ran4 == 3 || ran4 == 5)
     
     
-    ellipse(width1/2 +numDie  , height1/2 + ySpot, diceSize/5, diceSize/5); 
+    ellipse(width1/2 +numDie  , height1/2 + ySpot, yaBoi/5, yaBoi/5); 
  
     
   if (ran4 == 2 ||ran4 == 3 || ran4 == 4 || ran4 == 5 || ran4 == 6) { 
-    ellipse(width1/2 - diceSize/4+numDie, height1/2 - diceSize/4 + ySpot, diceSize/5, diceSize/5);
-    ellipse(width1/2 + diceSize/4+numDie, height1/2 + diceSize/4 + ySpot, diceSize/5, diceSize/5);
+    ellipse(width1/2 - yaBoi/4+numDie, height1/2 - yaBoi/4 + ySpot, yaBoi/5, yaBoi/5);
+    ellipse(width1/2 + yaBoi/4+numDie, height1/2 + yaBoi/4 + ySpot, yaBoi/5, yaBoi/5);
     
   }
   if (ran4 == 4 || ran4 == 5 || ran4 == 6) {
-    ellipse(width1/2 - diceSize/4+numDie, height1/2 + diceSize/4+ ySpot, diceSize/5, diceSize/5);
-    ellipse(width1/2 + diceSize/4+numDie, height1/2 - diceSize/4+ ySpot, diceSize/5, diceSize/5);
+    ellipse(width1/2 - yaBoi/4+numDie, height1/2 + yaBoi/4+ ySpot, yaBoi/5, yaBoi/5);
+    ellipse(width1/2 + yaBoi/4+numDie, height1/2 - yaBoi/4+ ySpot, yaBoi/5, yaBoi/5);
    
   }
   if (ran4 == 6) {
-    ellipse(width1/2 +numDie, height1/2 - diceSize/4+ ySpot, diceSize/5, diceSize/5);
-    ellipse(width1/2 + numDie, height1/2 + diceSize/4+ ySpot, diceSize/5, diceSize/5);
+    ellipse(width1/2 +numDie, height1/2 - yaBoi/4+ ySpot, yaBoi/5, yaBoi/5);
+    ellipse(width1/2 + numDie, height1/2 + yaBoi/4+ ySpot, yaBoi/5, yaBoi/5);
     
   }
     }
