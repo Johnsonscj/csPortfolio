@@ -3,7 +3,7 @@
 * WebPage [here](https://johnsonscj.github.io/TestWeb/climbPage/dogPage.html)
 * Lightning Java [here](https://johnsonscj.github.io/lightning2/)
 * Lightning JS[here]()
-* Dice [here]()
+* Dice [here](https://johnsonscj.github.io/dice3/)
 
 ```Java
 class Die //models one single dice cube
