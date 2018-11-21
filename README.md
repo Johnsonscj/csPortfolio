@@ -9,7 +9,7 @@
  </details>
 
 <details><summary><strong> Dice</strong></summary>
-* Dice [here](https://johnsonscj.github.io/dice3/)
+* Dice [here](https://johnsonscj.github.io/dice3/index.html)
  
  </details>
  
