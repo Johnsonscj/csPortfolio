@@ -7,11 +7,20 @@
 <details><summary><strong> Java Lighting</strong></summary>
 * Lightning Java [here](https://johnsonscj.github.io/lightning2/)
  </details>
-* Lightning JS [here]()
+
+<details><summary><strong> Dice</strong></summary>
 * Dice [here](https://johnsonscj.github.io/dice3/)
+ 
+ </details>
+ 
+ <details><summary><strong> College Pres</strong></summary>
 * College Presentation [here ](https://docs.google.com/presentation/d/1HHA8QrvBxTzIS_Zrj4j_ggZQLk0quPHLBQY8wYFpZdA/edit?usp=sharing)
+ </details>
+ 
+  <details><summary><strong> Starfield</strong></summary>
 * Star Field[ here ]( https://johnsonscj.github.io/starfield5/)
 
+</details>
 ```Java
  void move1() {
         if(y1<=ran4 ){
