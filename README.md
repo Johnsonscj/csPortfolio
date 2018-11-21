@@ -1,4 +1,4 @@
-# csPortfolio .  Sam Johnson
+# csPortfolio      Sam Johnson
 <details><summary><strong> Webpage</strong></summary>
  
 * WebPage [here](https://johnsonscj.github.io/TestWeb/climbPage/dogPage.html)
