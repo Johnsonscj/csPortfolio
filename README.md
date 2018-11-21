@@ -23,6 +23,7 @@
 
 
 ```Java
+\\moves the particles
  void move1() {
         if(y1<=ran4 ){
       count++;
