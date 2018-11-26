@@ -42,13 +42,13 @@
  <br>.overlay {</br>
  position: absolute;
    <br>  top: 0; </br>
-  <br> bottom: 0;</br>
+   bottom: 0;
   <br> left: 0;</br>
-   <br>right: 0;</br>
+right: 0;
    <br>background-color: brown;</br>
-   <br>overflow: hidden;</br>
+  overflow: hidden;
   <br> width: 0;</br>
-  <br> height: 100%;</br>
+   height: 100%;
   <br> transition: .5s ease;</br>
  <br>}</br>
 
