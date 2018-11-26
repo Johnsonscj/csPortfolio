@@ -2,7 +2,7 @@
 <details><summary><strong> Webpage</strong></summary>
  
 * WebPage [here](https://johnsonscj.github.io/TestWeb/climbPage/dogPage.html)
-<p> THis is Sam</p>
+<p> This allowed me to use HTML and CSS together. I thought it was helpful to get a taste of different programming languages. It was also a way to display what I am passionate in. </p>
 </details>
 <details><summary><strong> Java Lighting</strong></summary>
  
