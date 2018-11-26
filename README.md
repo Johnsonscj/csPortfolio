@@ -14,7 +14,8 @@
  
 * Dice [here](https://johnsonscj.github.io/dice3/index.html)
  
-<p></p>
+<p>I was able to use object oriented programming to create many different dice. I also involved different booleans into my program and made different levels. This program shows how powerful object oriented programming is.
+</p>
  </details>
  
  <details><summary><strong> College Pres</strong></summary>
