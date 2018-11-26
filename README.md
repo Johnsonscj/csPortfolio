@@ -40,7 +40,7 @@
  
  
  <br>.overlay {</br>
-  <br> position: absolute;</br>
+ position: absolute;
    <br>  top: 0; </br>
   <br> bottom: 0;</br>
   <br> left: 0;</br>
@@ -52,7 +52,6 @@
   <br> transition: .5s ease;</br>
  <br>}</br>
 
- )
  </p>
  <p>
  4.My highest hurdle this trimester was being able to create fireworks in my project StarField. I struggled a few days in creating this in my project. I realized most of my code was pretty bad, so I deleted all of it. I thought about what I wanted to do big picture. This was a huge success because I was able to be creative and how I was going to do this. Although I ended up needing help from the people around me, it was the highest hurdle because of the process I used to get over this problem.
