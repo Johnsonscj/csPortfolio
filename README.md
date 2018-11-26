@@ -18,11 +18,7 @@
 </p>
  </details>
  
- <details><summary><strong> College Pres</strong></summary>
- 
-* College Presentation [here](https://docs.google.com/presentation/d/1HHA8QrvBxTzIS_Zrj4j_ggZQLk0quPHLBQY8wYFpZdA/edit?usp=sharing)
-<p></p>
- </details>
+
  
   <details><summary><strong> Starfield</strong></summary>
  
@@ -30,6 +26,11 @@
 <p></p>
 </details>
 
+ <details><summary><strong> College Pres</strong></summary>
+ 
+* College Presentation [here](https://docs.google.com/presentation/d/1HHA8QrvBxTzIS_Zrj4j_ggZQLk0quPHLBQY8wYFpZdA/edit?usp=sharing)
+<p></p>
+ </details>
 
 ```Java
 \\moves the particles
