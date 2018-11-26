@@ -30,9 +30,7 @@
  <details><summary><strong> College Pres</strong></summary>
  
 * College Presentation [here](https://docs.google.com/presentation/d/1HHA8QrvBxTzIS_Zrj4j_ggZQLk0quPHLBQY8wYFpZdA/edit?usp=sharing)
-<p>
 
- </p>
  </details>
   <details><summary><strong> Reflection</strong></summary>
  
@@ -54,6 +52,10 @@
  6.I always tried to start out my projects on a piece of paper. I wanted to get down the big picture of my goal in this project. The reason why I do this is because I want to have direction within my code. I want to know where I am going within my code.  My next step in my process was to become more specific in my projects. I would translate what I thought of big picture into smaller details. There were many difficulties I faced within my coded that I resolved in different ways. If it was a simple problem I could normally figure out the problem. However, if it was a large problem I would try to rewrite the part that was wrong because I could try to figure out the solution a different way. I prefer to collaborate in the process of making my program because sometimes others can easily see what you're doing wrong. I have found that I would become blind to the problems in my own code. Also, I have to learn from others that know more than me. Overall, I prefer to be collaborative in my coding process.
  </p>
 </details>
+
+
+
+
 ```Java
 \\moves the particles
  void move1() {
