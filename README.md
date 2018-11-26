@@ -23,7 +23,8 @@
   <details><summary><strong> Starfield</strong></summary>
  
 * Star Field[ here ](https://johnsonscj.github.io/starfield5/)
-<p></p>
+<p>This was my most complex program. I incorporated interface and inheritance in my code. This program entailed a lot of trial and error because it involved many things I have not used in programming yet. For example, I was able to use maps in this program which I have never used before.
+ </p>
 </details>
 
  <details><summary><strong> College Pres</strong></summary>
