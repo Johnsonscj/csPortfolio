@@ -39,18 +39,18 @@
  <p>3.My accomplishment was being able to use HTML and CSS. At first, I was nervous to try a different programming language because I felt so comfortable with java. However, I knew trying a new language would be a wise decision. I do not love HTML, but I did learn a lot about HTML. This was a huge accomplishment because I was able to have an open mind and try something new.  Ex.
  
  
- .overlay {
-  position: absolute;
-    top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background-color: brown;
-  overflow: hidden;
-  width: 0;
-  height: 100%;
-  transition: .5s ease;
-}
+ <br>.overlay {</br>
+  <br> position: absolute;</br>
+   <br>  top: 0; </br>
+  <br> bottom: 0;</br>
+  <br> left: 0;</br>
+   <br>right: 0;</br>
+   <br>background-color: brown;</br>
+   <br>overflow: hidden;</br>
+  <br> width: 0;</br>
+  <br> height: 100%;</br>
+  <br> transition: .5s ease;</br>
+ <br>}</br>
 
  )
  </p>
