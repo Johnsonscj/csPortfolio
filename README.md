@@ -29,7 +29,7 @@
 
  <details><summary><strong> College Pres</strong></summary>
  
-* College Presentation [here](https://docs.google.com/presentation/d/1HHA8QrvBxTzIS_Zrj4j_ggZQLk0quPHLBQY8wYFpZdA/edit?usp=sharing)
+* College Presentation [here](https://johnsonscj.github.io/CollegePresentation/file)
 
  </details>
   <details><summary><strong> Reflection</strong></summary>
